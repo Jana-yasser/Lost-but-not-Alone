@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Lost but not alone</title>
+        <link rel="stylesheet" href="game.css">
+         <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@400;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+    </head>
+
+    <body>
+<img class="background" src="LI.png" alt="library">
+
+<a href="map.html">
+      <button class="back" >Go Back</button>
+      </a>
+        <div class="picture hotspot" 
+    data-message="Ginger's picture">
+  <div class="popup"></div>
+</div>
+
+
+<div class="books hotspot" 
+    data-message="Nothing unusual">
+  <div class="popup"></div>
+</div>
+<div class="books1 hotspot" 
+    data-message="Nothing here can help, search more!">
+  <div class="popup"></div>
+</div>
+<div class="paw hotspot" 
+    data-message="Fresh paw prints again!">
+  <div class="popup"></div>
+</div>
+   <div class="door2 hotspot"
+   data-message="Someone mentioned hearing children outside... Maybe Ginger followed the noise">
+  <div class="popup"></div>
+</div>
+<audio id="clickSound" src="click.mp3"></audio>
+<audio id="messageSound" src="message.mp3"></audio>
+<script src="game.js"></script>
+    </body>
+</html>

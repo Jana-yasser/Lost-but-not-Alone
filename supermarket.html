@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+ <title>Lost but not alone</title>
+  <link rel="stylesheet" href="game.css">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@400;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+</head>
+
+<body>
+  <img class="background" src="SM.png" alt="supermarket">
+
+  <a href="map.html">
+    <button class="back">Go Back</button>
+  </a>
+  <div class="tona1 hotspot" data-message="Same brand as the one in the park!">
+    <div class="popup"></div>
+  </div>
+  <div class="book hotspot" data-message="just a book!">
+    <div class="popup"></div>
+  </div>
+  <div class="backpack hotspot" data-message="someone left their backpack here, but nothing is inside">
+    <div class="popup"></div>
+  </div>
+
+  <div class="bear hotspot" data-message="why there is a Tidy bear in fresh dairy section?">
+    <div class="popup"></div>
+  </div>
+
+  <div class="paper"></div>
+  <div id="clue">
+    <img src="paper.png" alt="paper">
+
+    <button id="close">✖ Close</button>
+  </div>
+  <div class="Toy hotspot" data-message="just a Toy">
+    <div class="popup"></div>
+<audio id="clickSound" src="click.mp3"></audio>
+<audio id="paperSound" src="paper.mp3"></audio>
+<audio id="messageSound" src="message.mp3"></audio>
+  <script src="game.js"></script>
+</body>
+
+</html>

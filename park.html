@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Lost but not alone</title>
+  <link rel="stylesheet" href="game.css">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@400;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+</head>
+
+<body>
+  <img class="background" src="pa.png" alt="park">
+
+  <a href="map.html">
+    <button class="back">Go Back</button>
+  </a>
+
+
+  <div class="feather hotspot" data-message="Looks fresh, but it doesn't seem to be useful">
+
+    <div class="popup"></div>
+  </div>
+  <div class="Collar hotspot" data-message="This belongs to Luna!">
+    <div class="popup"></div>
+  </div>
+
+  <div class="tona hotspot" data-message="Tona! where did it come from?">
+    <div class="popup"></div>
+  </div>
+  <div class="bench hotspot" data-message="looks like a good place to rest, but nothing is here">
+    <div class="popup"></div>
+  </div>
+
+  <div class="fountain hotspot" data-message="The water is clean, but nothing is unusual">
+    <div class="popup"></div>
+  </div>
+
+  <div class="grass hotspot" data-message="just flowers">
+    <div class="popup"></div>
+  </div>
+  <audio id="clickSound" src="click.mp3"></audio>
+  <audio id="messageSound" src="message.mp3"></audio>
+  <script src="game.js"></script>
+
+
+</body>
+
+</html>

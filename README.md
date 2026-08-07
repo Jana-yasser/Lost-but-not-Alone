@@ -8,12 +8,12 @@ Because I really like mystery games and collecting clues and noticing them, I as
 with the features and style I want? Then I challenged myself and started working on it until I finished Lost but not Alone. I really like this game as my first one.
 
 ## How to Play
-1- First, you can see instructions for the game and information about ginger on the first page.
-2- By clicking Start, you will find a map that shows locations.
-3- Start searching every location carefully and finding clues by clicking them.
-4- Each clue helps you figure out where to go next.
-5- Finally, after following the clues, you will find Ginger.
-6- Enjoy!
+- 1- First, you can see instructions for the game and information about ginger on the first page.
+- 2- By clicking Start, you will find a map that shows locations.
+- 3- Start searching every location carefully and finding clues by clicking them.
+- 4- Each clue helps you figure out where to go next.
+- 5- Finally, after following the clues, you will find Ginger.
+- 6- Enjoy!
 
 ## Features
 - Exploring different locations around the city.
@@ -33,8 +33,8 @@ with the features and style I want? Then I challenged myself and started working
 [https://jana-yasser.github.io/Lost-but-not-Alone/](https://jana-yasser.github.io/Lost-but-not-Alone/)
 
 ## Gameplay
-A short video about hot to play
-[ watch the video](video.mp4)
+A short video about how to play:
+(https://youtu.be/GH2BO3_9Hbs)
 
 ## Screenshots
 Start Screen
@@ -47,10 +47,10 @@ Start Screen
 ![Ending screen](finish.png)
 
 ## Challenges & What I Learned
-1- JavaScript errors, but I learned how to follow the code, find errors, and avoid them in the future.
-2- Finding sound resources, but I found one after searching.
-3- Finding the style that matches me, so I mixed the styles I like.
-4- Uploading the project to GitHub; it was really hard as my first time, but I could do it.
+- 1- JavaScript errors, but I learned how to follow the code, find errors, and avoid them in the future.
+- 2- Finding sound resources, but I found one after searching.
+- 3- Finding the style that matches me, so I mixed the styles I like.
+- 4- Uploading the project to GitHub; it was really hard as my first time, but I could do it.
 
 ## AI Disclosure
 - I used AI to generate pictures, as I had customized pictures that show specific things like clues, so it
@@ -59,9 +59,8 @@ Start Screen
 
 ## Credits
 
-Pixabay ([https://share.google/AJexHLT8oV6xgahDX](https://share.google/AJexHLT8oV6xgahDX)) for sounds.
-ChatGPT ([https://chatgpt.com/](https://chatgpt.com/)) for generating pictures.
-Google  ([https://share.google/bycLKMpUa7cVB0XBo](https://share.google/bycLKMpUa7cVB0XBo)) for fonts
+- Pixabay ([https://share.google/AJexHLT8oV6xgahDX](https://share.google/AJexHLT8oV6xgahDX)) for sounds.
+- ChatGPT ([https://chatgpt.com/](https://chatgpt.com/)) for generating pictures.
+- Google  ([https://share.google/bycLKMpUa7cVB0XBo](https://share.google/bycLKMpUa7cVB0XBo)) for fonts
 
-ها
-[مصادر الـ fonts / sounds / assets لو فيه]
+

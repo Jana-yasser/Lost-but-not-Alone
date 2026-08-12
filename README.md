@@ -53,14 +53,12 @@ Start Screen
 - 4- Uploading the project to GitHub; it was really hard as my first time, but I could do it.
 
 ## AI Disclosure
-- I used AI to generate pictures, as I had customized pictures that show specific things like clues, so it
-  was the best way to do that without wasting much time and effort.
 - I used it to explain how to do some features that I didn't know, especially JavaScript and its errors.
 
 ## Credits
 
-- Pixabay ([https://share.google/AJexHLT8oV6xgahDX](https://share.google/AJexHLT8oV6xgahDX)) for sounds.
-- ChatGPT ([https://chatgpt.com/](https://chatgpt.com/)) for generating pictures.
+- Pixabay ([https://share.google/AJexHLT8oV6xgahDX](https://share.google/AJexHLT8oV6xgahDX)) for downloading sounds and
+  pictures.
 - Google  ([https://share.google/bycLKMpUa7cVB0XBo](https://share.google/bycLKMpUa7cVB0XBo)) for fonts
 
 

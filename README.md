@@ -54,9 +54,10 @@ Start Screen
 
 ## AI Disclosure
 - I used it to explain how to do some features that I didn't know, especially JavaScript and its errors.
+- I used AI to generate most of the visual assets based on my written descriptions.
 
 ## Credits
-
+- ChatGBT (https://chatgpt.com) for generating some pictures.
 - Pixabay ([https://share.google/AJexHLT8oV6xgahDX](https://share.google/AJexHLT8oV6xgahDX)) for downloading sounds and
   pictures.
 - Google  ([https://share.google/bycLKMpUa7cVB0XBo](https://share.google/bycLKMpUa7cVB0XBo)) for fonts

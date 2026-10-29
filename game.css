@@ -660,10 +660,29 @@ span {
 }
 /* Mobile map layout */
 @media (max-width: 600px) {
+    .mission-box {
+        width: 94%;
+        box-sizing: border-box;
+        margin: 10px auto 20px;
+        padding: 12px;
+    }
+
+    .mission-box h3 {
+        font-size: 15px;
+        line-height: 1.5;
+        overflow-wrap: break-word;
+    }
+
+    .mission-box p {
+        margin: 0;
+    }
+
     .map {
+        display: block;
         width: 100%;
         height: 420px;
         box-sizing: border-box;
+        margin: 20px auto;
     }
 
     .home,
@@ -671,33 +690,38 @@ span {
     .supermarket,
     .school,
     .park {
-        width: 105px;
-        height: 105px;
+        width: 100px;
+        height: 100px;
         box-sizing: border-box;
     }
 
     .home {
-        left: 5%;
-        top: 15%;
+        left: 4%;
+        top: 12%;
     }
 
     .library {
-        left: 30%;
-        top: 60%;
+        left: 5%;
+        top: 55%;
     }
 
     .supermarket {
-        left: 65%;
-        bottom: 40%;
+        left: 64%;
+        bottom: 60%;
     }
 
     .school {
-        left: 65%;
+        left: 64%;
         bottom: 5%;
     }
 
     .park {
-        left: 35%;
+        left: 32%;
         bottom: 30%;
+    }
+
+    .mapo {
+        display: block;
+        margin: 15px auto;
     }
 }

@@ -658,3 +658,46 @@ span {
 
 
 }
+/* Mobile map layout */
+@media (max-width: 600px) {
+    .map {
+        width: 100%;
+        height: 420px;
+        box-sizing: border-box;
+    }
+
+    .home,
+    .library,
+    .supermarket,
+    .school,
+    .park {
+        width: 105px;
+        height: 105px;
+        box-sizing: border-box;
+    }
+
+    .home {
+        left: 5%;
+        top: 15%;
+    }
+
+    .library {
+        left: 30%;
+        top: 60%;
+    }
+
+    .supermarket {
+        left: 65%;
+        bottom: 40%;
+    }
+
+    .school {
+        left: 65%;
+        bottom: 5%;
+    }
+
+    .park {
+        left: 35%;
+        bottom: 30%;
+    }
+}

@@ -697,17 +697,17 @@ span {
 
     .home {
         left: 4%;
-        top: 12%;
+        top: 30%;
     }
 
     .library {
         left: 5%;
-        top: 55%;
+        top: 70%;
     }
 
     .supermarket {
         left: 64%;
-        bottom: 60%;
+        bottom: 50%;
     }
 
     .school {
@@ -716,7 +716,7 @@ span {
     }
 
     .park {
-        left: 32%;
+        left: 38%;
         bottom: 30%;
     }
 
